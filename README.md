@@ -123,25 +123,76 @@ Powered by Trigger.dev
 
 ---
 
+# 🛠 Technology Stack
 
-🛠 Technology Stack
+## Frontend
 
-Category| Technology
-Framework| Next.js (App Router)
-Language| TypeScript
-Styling| Tailwind CSS
-UI| shadcn/ui
-Backend| Convex
-Authentication| WorkOS AuthKit
-AI| OpenAI / OpenRouter
-Database| Convex
-Storage| AWS S3
-Payments| Stripe
-Jobs| Trigger.dev
-Cache| Upstash Redis
-Analytics| PostHog
-Deployment| Vercel
+| Technology | Purpose |
+|---|---|
+| Next.js | Full-stack React framework |
+| React | UI development |
+| TypeScript | Type safety |
+| Tailwind CSS | Styling system |
+| Shadcn UI | Modern UI components |
+| Next App Router | Routing architecture |
 
+---
+
+## Backend
+
+| Technology | Purpose |
+|---|---|
+| Next.js API Routes | Server endpoints |
+| Convex | Backend database & functions |
+| TypeScript | Backend development |
+| Trigger.dev | Background jobs |
+| Redis | Cache & rate limiting |
+
+---
+
+## Database & Storage
+
+| Technology | Purpose |
+|---|---|
+| Convex Database | Application data |
+| AWS S3 Compatible Storage | File storage |
+| Redis | Fast data access |
+
+---
+
+## Authentication
+
+| Technology | Purpose |
+|---|---|
+| WorkOS AuthKit | Authentication |
+| Middleware Protection | Route security |
+
+---
+
+## AI Integration
+
+| Technology | Purpose |
+|---|---|
+| AI Models API | AI responses |
+| Custom Model Config | Model management |
+
+---
+
+## Payments
+
+| Technology | Purpose |
+|---|---|
+| Stripe | Subscription billing |
+
+---
+
+## Analytics
+
+| Technology | Purpose |
+|---|---|
+| PostHog | Product analytics |
+
+---
 ---
 
 
