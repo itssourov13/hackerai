@@ -123,6 +123,7 @@ Powered by Trigger.dev
 
 ---
 
+
 🛠 Technology Stack
 
 Category| Technology
@@ -143,7 +144,9 @@ Deployment| Vercel
 
 ---
 
+
 📁 Project Structure
+
 
 HackerAI
 │
@@ -183,6 +186,7 @@ HackerAI
 └── tsconfig.json
 
 ---
+
 
 📦 Core Modules
 
