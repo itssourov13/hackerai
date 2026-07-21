@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /dashboard/
+Disallow: /chat/
+Disallow: /editor/
+Disallow: /terminal/
+Disallow: /files/
+Disallow: /settings/
+
+Sitemap: https://hackerai.dev/sitemap.xml
