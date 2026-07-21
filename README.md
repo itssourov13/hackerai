@@ -1,23 +1,31 @@
-🚀 HackerAI
+# 🚀 HackerAI
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itssourov13/hackerai/main/public/logo.png" alt="HackerAI Banner" width="180"/>
-</p><h3 align="center">
-AI-Powered Coding Workspace • Chat • Terminal • File Manager • Code Editor
-</h3><p align="center">
-A modern, production-ready AI SaaS platform built with <strong>Next.js</strong>, <strong>TypeScript</strong>, <strong>Convex</strong>, <strong>Tailwind CSS</strong>, and a powerful cloud-native architecture.
-</p><p align="center">"Next.js" (https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=nextdotjs)
-"TypeScript" (https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)
-"TailwindCSS" (https://img.shields.io/badge/TailwindCSS-4-38BDF8?style=for-the-badge&logo=tailwindcss)
-"Convex" (https://img.shields.io/badge/Convex-Database-orange?style=for-the-badge)
-"OpenAI" (https://img.shields.io/badge/OpenAI-AI-10A37F?style=for-the-badge&logo=openai)
-"Stripe" (https://img.shields.io/badge/Stripe-Payments-635BFF?style=for-the-badge&logo=stripe)
-"Vercel" (https://img.shields.io/badge/Vercel-Deployed-black?style=for-the-badge&logo=vercel)
-"MIT License" (https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+  <h3 align="center">
+    AI-Powered Coding Workspace • Chat • Terminal • File Manager • Code Editor
+  </h3>
 
-</p>---
+  <p align="center">
+    A modern, production-ready AI SaaS platform built with <strong>Next.js</strong>, <strong>TypeScript</strong>, <strong>Convex</strong>, <strong>Tailwind CSS</strong>, and a powerful cloud-native architecture.
+  </p>
+</p>
 
-✨ Overview
+<p align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-4-38BDF8?style=for-the-badge&logo=tailwindcss)
+![Convex](https://img.shields.io/badge/Convex-Database-orange?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-AI-10A37F?style=for-the-badge&logo=openai)
+![Stripe](https://img.shields.io/badge/Stripe-Payments-635BFF?style=for-the-badge&logo=stripe)
+![Vercel](https://img.shields.io/badge/Vercel-Deployed-black?style=for-the-badge&logo=vercel)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+</p>
+
+---
+
+# ✨ Overview
 
 HackerAI is an advanced AI-powered coding platform designed to provide developers with an intelligent development workspace.
 
