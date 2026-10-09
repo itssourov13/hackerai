@@ -3,10 +3,24 @@
 # dependencies
 /node_modules
 /.pnp
-.pnp.js
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
 
 # testing
 /coverage
+
+# e2e tests
+/test-results/
+/playwright-report/
+/playwright/.cache/
+/e2e/test-files/
+/e2e/.auth/
+.env.e2e
+.playwright-mcp
 
 # next.js
 /.next/
@@ -23,10 +37,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.pnpm-debug.log*
 
-# local env files
+# env files (can opt-in for committing if needed)
 .env
-.env*.local
+.env.local
+!.env*.example
 
 # vercel
 .vercel
@@ -34,3 +50,14 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+# Playwright auth states
+.auth/
+CLAUDE.md
+packages/local/node_modules/
+
+# Desktop (Tauri)
+packages/desktop/node_modules/
+packages/desktop/src-tauri/target/
+
+.trigger
+/.artifacts/
