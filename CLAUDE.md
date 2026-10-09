@@ -1,3 +1,0 @@
-# HackerAI
-
-@AGENTS.md
